@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dsGui:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dsGui_jar</output-path>
+    <root id="archive" name="dsGui.jar">
+      <element id="module-output" name="dsGui" />
+    </root>
+  </artifact>
+</component>
