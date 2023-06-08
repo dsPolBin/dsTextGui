@@ -1,5 +1,5 @@
 # dsTextGui
-Program który pobiera wiadomość z pola tekstowego po czym czyta je na głos!
+Program który pobiera wiadomość z pola tekstowego po czym czyta ją na głos!
 
 # Instalacja
 Wymagana Java 17, eSpeak
